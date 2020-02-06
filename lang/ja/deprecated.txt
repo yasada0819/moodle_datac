@@ -1,0 +1,12 @@
+namedate,mod_datac
+namefile,mod_datac
+namecheckbox,mod_datac
+namelatlong,mod_datac
+namemenu,mod_datac
+namemultimenu,mod_datac
+namenumber,mod_datac
+namepicture,mod_datac
+nameradiobutton,mod_datac
+nametext,mod_datac
+nametextarea,mod_datac
+nameurl,mod_datac

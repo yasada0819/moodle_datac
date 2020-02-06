@@ -1,0 +1,152 @@
+.path-mod-datac-field .c0,
+#page-mod-datac-view #sortsearch .c0 {
+    text-align: right;
+}
+
+#page-mod-datac-view .approve img.icon {
+    width: 34px;
+    height: 34px;
+}
+
+.path-mod-datac #id_entrieshdr div .alert.alert-danger {
+    margin-bottom: 2rem;
+}
+
+#page-mod-datac-view img.list_picture {
+    border: 0;
+}
+
+#page-mod-datac-view div.search_none {
+    display: none;
+}
+
+#page-mod-datac-view div.search_inline,
+#page-mod-datac-view form#latlongfieldbrowse {
+    display: inline;
+}
+
+#page-mod-datac-view div#datac_adv_form {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#page-mod-datac-edit .basefieldinput {
+    width: 300px;
+}
+
+/** Styles for preset.php **/
+#page-mod-datac-preset .presetmapping table {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#page-mod-datac-preset .overwritesettings {
+    margin-bottom: 1em;
+}
+
+#page-mod-datac-preset table.presets {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/** Styles for the search form **/
+#page-mod-datac-view .datapreferences label {
+    display: inline-block;
+}
+
+/** Styles for field.php **/
+.path-mod-datac-field .fieldadd,
+.path-mod-datac-field .sortdefault {
+    margin: 1em 0;
+}
+
+.path-mod-datac-field .fieldadd select,
+.path-mod-datac-field .sortdefault select {
+    margin-left: 1em;
+}
+
+.path-mod-datac-field .fieldname,
+.path-mod-datac-field .fielddescription {
+    width: 300px;
+}
+
+.path-mod-datac-field textarea.optionstextarea {
+    width: 300px;
+    height: 150px;
+}
+
+.path-mod-datac-field input.textareafieldsize {
+    width: 50px;
+}
+
+.path-mod-datac-field input.picturefieldsize {
+    width: 70px;
+}
+
+.path-mod-datac .action-icon img.portfolio-add-icon {
+    margin-left: 0;
+}
+
+/** UI Usability Hacks **/
+#page-mod-datac-export #notice span {
+    padding: 0 10px;
+}
+/*rtl:ignore*/
+#page-mod-datac-edit input[id*="url"] {
+    text-align: left;
+    direction: ltr;
+}
+
+.mod-datac-default-template td {
+    vertical-align: top;
+}
+
+.mod-datac-default-template .template-field {
+    text-align: right;
+}
+
+.mod-datac-default-template .template-token {
+    text-align: left;
+}
+
+.mod-datac-default-template .controls {
+    text-align: center;
+}
+
+.mod-datac-default-template .searchcontrols {
+    text-align: right;
+}
+
+.mod-datac-default-template.notapproved {
+    background-color: #fcc;
+}
+
+#page-mod-datac-templates td.save_template,
+#page-mod-datac-templates .template_heading {
+    text-align: center;
+}
+
+#page-mod-datac-templates #availabletags_wrapper {
+    max-width: 250px;
+}
+
+#page-mod-datac-edit .req {
+    cursor: help;
+}
+
+#page-mod-datac-edit .inline-req .req {
+    position: absolute;
+}
+
+#page-mod-datac-edit .inline-req {
+    text-align: left;
+}
+
+#page-mod-datac-edit .mod-datac-input {
+    margin-left: 10px;
+}
+
+#page-mod-datac-edit .datatagcontrol {
+    padding-left: 10px;
+}
